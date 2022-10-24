@@ -8,10 +8,16 @@
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous"/> -->
     </head>
     <body>
+    <style>
+    body {
+    background-image: url('3657535.jpg');
+    background-repeat: no-repeat;
+    }
+    </style>
         <header class="main-header">
             <nav class="nav main-nav">
                 <ul>
-                    <li><a href="index.php">HOME</a></li>
+                    <li><a href="home.php">HOME</a></li>
                 </ul>
             </nav>
             <h1 class="band-name band-name-large">.</h1>

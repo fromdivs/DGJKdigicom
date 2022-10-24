@@ -18,7 +18,7 @@
                 <ul>
                     <li><a href="#">STORE</a></li>
                     <li><a href="compare.php">COMPARE</a></li>
-                    <li><a href="about.php">ADOUT</a></li>
+                    <li><a href="about.php">ABOUT</a></li>
                     <li><a href="logout.php">LOGOUT</a></li>
                 </ul>
             </nav>

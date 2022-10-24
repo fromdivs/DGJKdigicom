@@ -14,7 +14,7 @@
                     <li><a href="login.php">LOGIN</a></li>
                 </ul>
             </nav>
-            <h1 class="band-name band-name-large">DGJK</h1>
+            <h1 class="band-name band-name-large">.</h1>
         </header>
         <!-- <section class="content-section container"> -->
             <div class="container">

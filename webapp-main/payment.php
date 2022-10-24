@@ -24,7 +24,7 @@
                     <li><a href="logout.php">LOGOUT</a></li>
                 </ul>
             </nav>
-            <h1 class="band-name band-name-large">DGJK</h1>
+            <h1 class="band-name band-name-large">.</h1>
             
         </header>
         <section class="content-section container">
@@ -34,6 +34,12 @@
                         <div class="col-md-6 login-left">
                             <h2 class="section-header">Payment</h2>
                             <form action="payment.php">
+                            <style>
+  body {
+    background-image: url('3657535.jpg');
+    background-repeat: no-repeat;
+  }
+  </style>
                                 <div>
                                     <div>
                                         <input value="cards" type="radio" name="payment" id="payment1" checked/>
